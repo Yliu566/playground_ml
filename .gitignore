@@ -158,3 +158,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+### ignore the large model file.
+ai4chem_course/02 - Supervised Learning/data/features_tox.npy
+ai4chem_course/02 - Supervised Learning/data/y_tox.npy
+ai4chem_course/03 - Intro to Deep Learning/esol_ckpts/*
+ai4chem_course/03 - Intro to Deep Learning/esol_pyg/*
+ai4chem_course/03 - Intro to Deep Learning/lightning_logs/*
+ai4chem_course/05 - Generative Models/dl-chem-101/*
+ai4chem_course/05 - Generative Models/molecular-vae/*
