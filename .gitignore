@@ -160,10 +160,10 @@ cython_debug/
 #.idea/
 
 ### ignore the large model file.
-ai4chem_course/02 - Supervised Learning/data/features_tox.npy
-ai4chem_course/02 - Supervised Learning/data/y_tox.npy
-ai4chem_course/03 - Intro to Deep Learning/esol_ckpts/*
-ai4chem_course/03 - Intro to Deep Learning/esol_pyg/*
-ai4chem_course/03 - Intro to Deep Learning/lightning_logs/*
-ai4chem_course/05 - Generative Models/dl-chem-101/*
-ai4chem_course/05 - Generative Models/molecular-vae/*
+ai4chem_course/02_Supervised_Learning/data/features_tox.npy
+ai4chem_course/02_Supervised_Learning/data/y_tox.npy
+ai4chem_course/03_Intro_to_Deep_Learning/esol_ckpts/*
+ai4chem_course/03_Intro_to_Deep_Learning/esol_pyg/*
+ai4chem_course/03_Intro_to_Deep_Learning/lightning_logs/*
+ai4chem_course/05_Generative_Models/dl-chem-101/*
+ai4chem_course/05_Generative_Models/molecular-vae/*
